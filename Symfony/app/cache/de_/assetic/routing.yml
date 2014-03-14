@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: /Applications/mampstack-5.4.23-0/apache2/htdocs/symfony_openclassroom/Symfony/app/config/routing_dev.yml
